@@ -1,0 +1,6 @@
+{
+  "name": "Tip Out & Daily Earnings Tracker",
+  "description": "A web application to calculate two different tip outs (5.5% and 2.5%) based on total sales, and to track your daily take-home tips using a monthly calendar. Log, view, and edit your earnings per day.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
